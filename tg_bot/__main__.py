@@ -18,15 +18,13 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+Hai {}, My Name is {}! If You Have Any Questions About How to Use Me Please Give Me /help... 
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+Im a Group Manager Bot Maintained By  [M2](tg://user?id={}).
 
-My future updates will be put into This Channel - @m2botz & My Support Group @m2botzsupport.
+My Future Updates Will Be Put Into This Channel - @M2Botz & My Support Group @M2BotzSupport.
 
-For more commands click /help...
-
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+For more Commands Click /help...
 
 """
 
